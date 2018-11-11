@@ -6,7 +6,6 @@ Handlebars helper - Generate string with base64-encoded sha384 hash
 
 ```
 {{subresource-integrity string}}
-//
 ```
 
 **Params**

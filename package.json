@@ -1,31 +1,31 @@
 {
-  "name": "handlebars-subresource-integrity",
-  "version": "1.0.0",
-  "description": "Handlebars helper - Generate string with base64-encoded sha384 hash",
-  "author": "TiagoDanin <TiagoDanin@outlook.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TiagoDanin/Handlebars-Subresource-Integrity.git"
-  },
-  "homepage": "http://TiagoDanin.github.io/Handlebars-Subresource-Integrity",
-  "bugs": "https://github.com/TiagoDanin/Handlebars-Subresource-Integrity/issues",
-  "keywords": [
-    "handlebars",
-    "helper",
-    "sha384",
-    "subresource-integrity",
-    "generate"
-  ],
-  "scripts": {
-    "test": "mocha --exit --timeout 100000"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "handlebars": "4.1.2",
-    "mocha": "6.0.2"
-  },
-  "engines": {
-    "node": ">= 8"
-  }
+	"name": "handlebars-subresource-integrity",
+	"version": "1.0.0",
+	"description": "Handlebars helper - Generate string with base64-encoded sha384 hash",
+	"author": "TiagoDanin <TiagoDanin@outlook.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TiagoDanin/Handlebars-Subresource-Integrity.git"
+	},
+	"homepage": "http://TiagoDanin.github.io/Handlebars-Subresource-Integrity",
+	"bugs": "https://github.com/TiagoDanin/Handlebars-Subresource-Integrity/issues",
+	"keywords": [
+		"handlebars",
+		"helper",
+		"sha384",
+		"subresource-integrity",
+		"generate"
+	],
+	"scripts": {
+		"test": "mocha --exit --timeout 100000"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"handlebars": "^4.1.2",
+		"mocha": "6.0.2"
+	},
+	"engines": {
+		"node": ">= 8"
+	}
 }

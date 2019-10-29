@@ -22,7 +22,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"handlebars": "^4.4.3",
+		"handlebars": "^4.5.1",
 		"mocha": "6.0.2"
 	},
 	"engines": {

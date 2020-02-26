@@ -23,7 +23,7 @@
 	"dependencies": {},
 	"devDependencies": {
 		"handlebars": "^4.7.3",
-		"mocha": "7.0.1"
+		"mocha": "7.1.0"
 	},
 	"engines": {
 		"node": ">= 8"
